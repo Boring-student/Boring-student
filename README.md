@@ -2,7 +2,7 @@
 
 ![image](https://raw.githubusercontent.com/Boring-student/Boring-student/main/blink.gif)
 
-Also not much going on here yet.
+Also not much going on in here yet.
 
 
 
