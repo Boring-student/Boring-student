@@ -1,6 +1,6 @@
 ### Hello there Stranger. 😏
 
-![image](https://raw.githubusercontent.com/Boring-student/Boring-student/main/89c0331.gif)
+![image](https://raw.githubusercontent.com/Boring-student/Boring-student/main/blink.gif)
 
 Also not much going on here yet.
 
