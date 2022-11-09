@@ -1,4 +1,4 @@
-### Hello there Stranger.
+### Hello there Stranger. 🐱‍👤
 
 ![image](https://raw.githubusercontent.com/Boring-student/Boring-student/main/blink.gif)
 
