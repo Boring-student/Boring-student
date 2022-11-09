@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there Stranger. 😏
+
+![image](https://raw.githubusercontent.com/Boring-student/Boring-student/main/89c0331.gif)
+
+Also not much going on here yet.
+
+
 
 <!--
 **Boring-student/Boring-student** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
